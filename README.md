@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Budget Tracker 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A app which tracks your budgets and expenses 
+
+Technologies used:
+1. React
+2. Tailwindcss
+3. Framer Motion
 
 ## Available Scripts
 
